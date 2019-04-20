@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="title_home">Risk</string>
+    <string name="title_dashboard">Graph</string>
+    <string name="title_notifications">Compare</string>
+    <string name="title_return">Return</string>
+
+   <string-array name="stocktype">
+       <item>Transport and Logistics</item>
+       <item>Information Technology and Communication</item>
+       <item>Funds and Securities</item>
+       <item>Develop Real Estate</item>
+       <item>Energy and Utilities</item>
+       <item>Electronic parts</item>
+       <item>Constrtuction</item>
+       <item>Travel and Leisure</item>
+       <item>Food and Drink</item>
+       <item>Commerce</item>
+       <item>Medical</item>
+       <item>Bank</item>
+       <item>Agribusiness</item>
+       <item>Petrochemicals and Chemicals</item>
+       <item>Media and Publications</item>
+       <item>Construction Meterials</item>
+   </string-array>
+    <string-array name="stockranking">
+        <item>A-Z</item>
+        <item>Z-A</item>
+        <item>Risk High to Low</item>
+        <item>Risk Low to High</item>
+    </string-array>
+</resources>
